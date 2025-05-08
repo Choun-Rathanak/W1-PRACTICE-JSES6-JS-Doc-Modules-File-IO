@@ -3,7 +3,7 @@
  * Immutable: all operations return a new instance.
  */
 
-// ✅ Exporting the class so it can be used in other modules
+// Exporting the class so it can be used in other modules
 export class Duration {
     /**
      * Total duration in seconds.
